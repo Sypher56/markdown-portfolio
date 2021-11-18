@@ -1,5 +1,5 @@
-Dogs
-Games
-Foods
-Bed
-Beer
+- dogs
+- Foods
+- Bed
+- Games
+- Beer
